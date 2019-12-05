@@ -15,7 +15,7 @@
     "type":0,
     "message":"{\"type\":1,\"message\":\"{\\\"text\\\":\\\"testMessage\\\",\\\"important\\\":10}\"}"
   },
-  "test": {
+  "testInner": {
     "type":0,"message":"{\"type\":0,\"message\":\"{\\\"type\\\":1,\\\"message\\\":\\\"{\\\\\\\"text\\\\\\\":\\\\\\\"testMessage\\\\\\\",\\\\\\\"important\\\\\\\":10}\\\"}\"}"
   }
   
